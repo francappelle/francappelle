@@ -1,5 +1,14 @@
 ### Hi, I'm Francisco Cappelle 👋
 
+<br/>
+
+**`Dreamer || Web Developer || Creator`**
+
+<br/>
+
+I'm a family man based in Viseu, Portugal, that loves to code.
+I work for Kyndryl as a CICS System Administrator, and in my free time, I'm an indie Web Developer that loves to learn and create new and beautiful things.
+
 ### :computer: Connect with me:
 
 <a href="https://www.instagram.com/francisco.cappelle/">
