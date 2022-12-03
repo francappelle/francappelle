@@ -9,7 +9,7 @@
 I'm a family man based in Viseu, Portugal, that loves to code.
 I work for Kyndryl as a CICS System Administrator, and in my free time, I'm an indie Web Developer that loves to learn and create new and beautiful things.
 
-### :computer: Connect with me:
+## :computer: Connect with me:
 
 <a href="https://www.instagram.com/francisco.cappelle/">
   <img align="left" alt="Francisco Cappelle's Instagram" width="26px" src="./icons/instagram.png" />
@@ -23,7 +23,7 @@ I work for Kyndryl as a CICS System Administrator, and in my free time, I'm an i
 
 <br />
 
-### :toolbox: Languages and Tools:
+## :toolbox: Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
