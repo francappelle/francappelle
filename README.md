@@ -7,7 +7,7 @@
 <br/>
 
 <p>I'm a family man based in Viseu, Portugal, that loves to code.</p>
-<p>I work for Kyndryl as a [CICS](https://www.ibm.com/docs/en/zos-basic-skills?topic=zos-introduction-cics) System Administrator, and in my free time, I'm an indie Web Developer that loves to learn and create new and beautiful things.</p>
+<p>I work for Kyndryl as a <a href="https://www.ibm.com/docs/en/zos-basic-skills?topic=zos-introduction-cics">CICS</a> System Administrator, and in my free time, I'm an indie Web Developer that loves to learn and create new and beautiful things.</p>
 
 ## :computer: Connect with me:
 
