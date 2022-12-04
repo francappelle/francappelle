@@ -5,11 +5,12 @@
 **`Dreamer || Husband || Father || System Administrator || Web Developer || Creator`**
 
 <br/>
+<br/>
 
 <p>I'm a family man based in Viseu, Portugal, that loves to code.</p>
 <p>I work for Kyndryl as a <a href="https://www.ibm.com/docs/en/zos-basic-skills?topic=zos-introduction-cics">CICS</a> System Administrator, and in my free time, I'm an indie Web Developer that loves to learn and create new and beautiful things.</p>
 
-## :computer: Connect with me:
+### Connect with me:
 
 <a href="https://www.instagram.com/francisco.cappelle/">
   <img align="left" alt="Francisco Cappelle's Instagram" width="26px" src="./icons/instagram.png" />
@@ -22,8 +23,9 @@
 </a>
 
 <br />
+<br />
 
-## :toolbox: Languages and Tools:
+### Languages and Tools:
 
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
@@ -40,8 +42,9 @@
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 
 <br />
+<br />
 
-## :fire: My Badges:
+### My Badges:
 
 To see all the other issued badges click [here](https://www.credly.com/users/francisco-cappelle/badges)
 
