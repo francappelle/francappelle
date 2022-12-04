@@ -10,8 +10,8 @@
 <p>I'm a family man based in Viseu, Portugal, that loves to code.</p>
 <p>I work for Kyndryl as a <a href="https://www.ibm.com/docs/en/zos-basic-skills?topic=zos-introduction-cics">CICS</a> System Administrator, and in my free time, I'm an indie Web Developer that loves to learn and create new and beautiful things.</p>
 
-### Connect with me:
-
+## Connect with me:
+<br />
 <a href="https://www.instagram.com/francisco.cappelle/">
   <img align="left" alt="Francisco Cappelle's Instagram" width="30px" src="./icons/instagram.png" />
 </a>
@@ -25,8 +25,8 @@
 <br />
 <br />
 
-### Languages and Tools:
-
+## Languages and Tools:
+<br />
 <img align="left" alt="HTML5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img align="left" alt="CSS3" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <img align="left" alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
@@ -45,10 +45,11 @@
 <br />
 <br />
 
-### My Badges:
+## My Badges:
 
+<br />
 To see all the other issued badges click [here](https://www.credly.com/users/francisco-cappelle/badges)
-
+<br />
 <!--START_SECTION:badges-->
 
 [![Mainframe Modern Specialist - Foundation](https://images.credly.com/size/85x85/images/be291407-3f72-4f9c-82bf-a880162f3fc6/image.png)](https://www.credly.com/badges/f34a3c26-0095-4de9-a25b-7c9a8e5cbc40 'Mainframe Modern Specialist - Foundation')
