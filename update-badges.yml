@@ -2,8 +2,8 @@ name: Update badges
 
 on:
   schedule:
-    # Runs at 0am UTC every day
-    - cron: "24 0 * * *"
+    # Runs at 2am UTC
+    - cron: '26 0 * * *'
 jobs:
   update-readme:
     name: Update Readme with badges
@@ -11,5 +11,5 @@ jobs:
     steps:
       - name: Badges - Readme
         uses: pemtajo/badge-readme@main
-         with:       
-          CREDLY_USER: francisco-cappelle # optional, but default will use the same from github
+        with:
+          CREDLY_USER: <francisco-cappelle>
