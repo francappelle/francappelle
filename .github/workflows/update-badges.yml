@@ -21,5 +21,6 @@ jobs:
         uses: pemtajo/badge-readme@main
         with:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          CREDLY_USER: francisco-cappelle
           BADGE_SIZE: 85
           NUMBER_LAST_BADGES: 24
