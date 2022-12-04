@@ -43,7 +43,7 @@
 
 ## :fire: My Badges:
 
-To see all the other badges are [here](https://www.credly.com/users/francisco-cappelle/badges)
+To see all the other issued badges click here [here](https://www.credly.com/users/francisco-cappelle/badges)
 
 <!--START_SECTION:badges-->
 
