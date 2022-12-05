@@ -50,7 +50,7 @@
 To see all the other issued badges click <a href="https://www.credly.com/users/francisco-cappelle/badges">here</a>.
 <br/>
 <br />
-<!--START_SECTION:badges-->
+
 
 [![Mainframe Modern Specialist - Foundation](https://images.credly.com/size/85x85/images/be291407-3f72-4f9c-82bf-a880162f3fc6/image.png)](https://www.credly.com/badges/f34a3c26-0095-4de9-a25b-7c9a8e5cbc40 'Mainframe Modern Specialist - Foundation')
 [![IBM Z Xplore - Advanced](https://images.credly.com/size/85x85/images/c8f58c5c-e4dc-4d80-9b5d-3ae174cbab72/image.png)](https://www.credly.com/badges/c70a8707-3fff-4907-8e86-86f9a966c8d8 'IBM Z Xplore - Advanced')
@@ -62,4 +62,3 @@ To see all the other issued badges click <a href="https://www.credly.com/users/f
 [![Zowe™ Fundamentals](https://images.credly.com/size/85x85/images/e18d91d6-d543-4d1a-8b0e-fe30876e44a8/Zowe_Fundamentals.png)](https://www.credly.com/badges/adf938b3-d49d-434d-b245-8d866c1b9183 'Zowe™ Fundamentals')
 [![Cloud Fundamentals](https://images.credly.com/size/85x85/images/a599fdbf-b61c-4dab-a855-508c28fc16c3/Cloud_Fundamentals.png)](https://www.credly.com/badges/bf9da16f-f526-4947-bd62-dc00d9091107 'Cloud Fundamentals')
 
-<!--END_SECTION:badges-->
