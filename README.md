@@ -18,9 +18,7 @@
 <a href="https://www.linkedin.com/in/francisco-cappelle/">
   <img align="left" alt="Francisco Cappelle's LinkedIn" width="30px" src="./icons/linkedin.png" />
 </a>
-<a href="https://dev.to/francappelle">
-  <img align="left" alt="Francisco Cappelle's Dev Profile" width="30px" src="./icons/dev.png" />
-</a>
+
 
 <br />
 <br />
